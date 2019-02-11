@@ -1,2 +1,2 @@
-## Bài tập về Angular
+## Bài tập Angular
 [Bài tập] Ứng dụng countdown
